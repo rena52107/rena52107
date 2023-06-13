@@ -3,9 +3,9 @@
 
 <p>A Frontend developer who is passionate about problem solving.</p>
 
-- 🏡： Based in Vancouver
+- 🏡: Based in Vancouver
 - 💻: Love neat and clean code
-- ❤: Reading, Coding, Soving puzzle, Baking, Trecking
+- ❤: Reading, Coding, Soving puzzle, Baking, Hiking
 
 ### Connect With Me:
 <a href="https://www.linkedin.com/in/renasakata"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
