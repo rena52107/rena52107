@@ -1,16 +1,30 @@
-
 <h1 align="center">Hi there, I'm Rena! 👋</h1>
 
-<p>A Frontend developer who is passionate about problem solving.</p>
+<p>Hello there, I&apos;m Rena Sakata, a full stack developer based in Vancouver.<br />
+<br />
+I&apos;m passionate about implementing cutting-edge, lightweight, and intuitively user-friendly solutions. I thrive on crafting tools and applications that are accessible to everyone and push the boundaries of what&apos;s possible.<br />
+<br />
 
-- 🏡: Based in Vancouver
-- 💻: Love neat and clean code
-- ❤: Reading, Coding, Soving puzzle, Baking, Hiking
+### ❤️ What I love
 
-### Connect With Me:
-<a href="https://www.linkedin.com/in/renasakata"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-　　
-### Languages and Tools:
-<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /><img height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /><img height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><img height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /><img  height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rena52107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 👩‍💻 Neat and efficient coding
+- 🔍 Exploring new technologies
+- 📚 Reading mysteries and sci-fi
+- 🍪 Cooking and baking
+- ⛰️ Exploring nature trails
+
+## Languages and Tools:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native badge" />
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js badge" />
+  </p>
+
+## 🔗 Links
+
+<a href="https://www.linkedin.com/in/renasakata"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+<a href="https://www.renasakata.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio site badge" /></a>
